@@ -1,0 +1,4 @@
+*.log
+!vip.log
+!zanati.log
+node_pack/
